@@ -43,7 +43,7 @@
     color: rgb(255, 255, 255);
     font-size: 18px;
     font-family: 'Roboto', sans-serif;
-    border-radius: 5px;
+    border-radius: 2px;
     cursor: pointer;
 }
 .submit__btn:hover{
