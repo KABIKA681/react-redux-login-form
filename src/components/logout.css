@@ -6,16 +6,21 @@
     height: 100vh;
     font-family: 'Inter';
 }
-.logout__button{
-    min-width: 300px;
+.logout button{
+    min-width: 200px;
     padding: 17px 30px;
-    margin-top: 20px;
+    margin: 20px;
     background: black;
     border: none;
     color: white;
     font-size: 14px;
     font-family: "Inter";
     border-radius: 2px;
+    cursor: pointer;
+}
+.logout button:hover{
+    background-color: rgb(243, 132, 112);
+    color: black;
 }
 .user__name{
     color: tomato;
